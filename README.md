@@ -23,7 +23,7 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
    - Azure Data Factory
    - Azure Data lake
    - Azure Databricks
-   - Delta Lake
+   - Delta Table
 
      
 ## Dataset used
