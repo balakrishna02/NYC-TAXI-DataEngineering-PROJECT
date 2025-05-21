@@ -8,6 +8,7 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
 
 
 ## Data Architechture
+![data architechture ](https://github.com/user-attachments/assets/021a83e0-7a25-4b8d-9759-8667758f0bae)
 
 
 
