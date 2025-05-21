@@ -7,6 +7,13 @@
 Created a end-to-end solutions and connected DataBricks Delta table to Power BI for visualization.
 
 
+## Data Architechture
+
+
+
+
+
+
 
 
 ## Technology Used
