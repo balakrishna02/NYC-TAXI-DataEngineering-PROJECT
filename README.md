@@ -16,11 +16,35 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
 Azure Account Creation: Started by creating an Azure account and configuring the necessary resource groups.  <br>
 Service Provisioning: Deployed key services such as Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Power BI.
 
+
 ## Step 2. Data Ingestion
 
-Sources: Data was collected from APIs, using http servies  <br>
+Sources: I worked with multiple sources. This included local CSV files, as well as external APIs using HTTP services. I used Azure Data Factory to automate the ingestion process—connecting to APIs via HTTP connectors and importing local files into Azure Data Lake Storage.  <br>
 Azure Data Factory: Used as a managed ETL (Extract, Transform, Load) service to automate data ingestion, orchestrate workflows, and move data into cloud storage.
 
+
+## Step 3. Data Storage
+
+Azure Data Lake Storage: Chosen for scalable, secure, and cost-effective storage of raw and processed data.    <br>
+Data Organization: Structured storage with folders for raw, staging, and processed data to maintain an organized pipeline.
+
+
+## Step 4. Data Processing & Transformation
+
+Azure Databricks: Utilized for data processing via Spark clusters.      <br>
+Transformations: Performed data cleaning, filtering, aggregation, and transformations using PySpark notebooks.      <br>
+Delta Lake: Implemented for enhanced data management with features like ACID transactions, versioning, and time travel.      <br>
+
+
+## Step 5. Building Data Pipelines
+
+Orchestration: Managed dependencies between tasks, ensuring proper sequencing and monitoring.      <br>
+Demonstrated how to handle end-to-end data workflows, from raw data collection to actionable insights.
+
+
+## Step 6. Data Visualization & Reporting
+Power BI Integration: Connected processed data from Delta Lake or Azure SQL Database to Power BI.      <br>
+Dashboard Development: Built interactive dashboards for data insights, enabling stakeholders to explore data visually.      <br>
 
 
 
