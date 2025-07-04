@@ -13,10 +13,13 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
 
 ## Step 1. Environment Setup
 
-Azure Account Creation: Started by creating an Azure account and configuring the necessary resource groups.<br>
+Azure Account Creation: Started by creating an Azure account and configuring the necessary resource groups.  <br>
 Service Provisioning: Deployed key services such as Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Power BI.
 
+## Step 2. Data Ingestion
 
+Sources: Data was collected from APIs, using http servies  <br>
+Azure Data Factory: Used as a managed ETL (Extract, Transform, Load) service to automate data ingestion, orchestrate workflows, and move data into cloud storage.
 
 
 
