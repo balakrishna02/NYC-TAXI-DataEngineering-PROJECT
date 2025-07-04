@@ -11,6 +11,10 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
 ![WhatsApp Image 2025-05-21 at 16 37 20_7de57877](https://github.com/user-attachments/assets/fae1727e-15c2-4d84-b2a4-1a8fb406a3b0)
 
 
+### Step 1. Environment Setup
+
+Azure Account Creation: Started by creating an Azure account and configuring the necessary resource groups.
+Service Provisioning: Deployed key services such as Azure Data Factory, Azure Data Lake Storage, Azure Databricks, and Power BI.
 
 
 
