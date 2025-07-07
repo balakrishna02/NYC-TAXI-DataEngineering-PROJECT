@@ -11,6 +11,17 @@ Created a end-to-end solutions and connected DataBricks Delta table to Power BI 
 ![WhatsApp Image 2025-05-21 at 16 37 20_7de57877](https://github.com/user-attachments/assets/fae1727e-15c2-4d84-b2a4-1a8fb406a3b0)
 
 
+
+## Technology Used
+1. Programming Language - Python 
+2. Scripting Language - SQL 
+3. Azure Cloud
+   - Azure Data Factory
+   - Azure Data lake
+   - Azure Databricks
+   - Delta Table
+  
+     
 ## Step 1. Environment Setup
 
 Azure Account Creation: Started by creating an Azure account and configuring the necessary resource groups.  <br>
@@ -47,16 +58,6 @@ Power BI Integration: Connected processed data from Delta Lake or Azure SQL Data
 Dashboard Development: Built interactive dashboards for data insights, enabling stakeholders to explore data visually.      <br>
 
 
-
-
-## Technology Used
-1. Programming Language - Python 
-2. Scripting Language - SQL 
-3. Azure Cloud
-   - Azure Data Factory
-   - Azure Data lake
-   - Azure Databricks
-   - Delta Table
 
      
 ## Dataset used
